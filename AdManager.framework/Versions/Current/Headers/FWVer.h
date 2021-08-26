@@ -1,0 +1,2 @@
+#define FW_SDK_VERSION @"6.39.0"
+#define FW_BUILD_STAMP "6.39.0-bba25da6-202011192023"

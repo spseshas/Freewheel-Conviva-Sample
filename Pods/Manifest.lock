@@ -1,0 +1,24 @@
+PODS:
+  - ConvivaAVFoundation (4.0.5):
+    - ConvivaSDK (= 4.0.5)
+  - ConvivaSDK (4.0.5)
+  - GoogleAds-IMA-iOS-SDK (3.13.0)
+
+DEPENDENCIES:
+  - ConvivaAVFoundation (= 4.0.5)
+  - GoogleAds-IMA-iOS-SDK (~> 3.13.0)
+
+SPEC REPOS:
+  trunk:
+    - ConvivaAVFoundation
+    - ConvivaSDK
+    - GoogleAds-IMA-iOS-SDK
+
+SPEC CHECKSUMS:
+  ConvivaAVFoundation: 37ebc4cacc588490a9e81f638aa2f9430583c735
+  ConvivaSDK: 569489f1256f42aef63f439932044dc1490ca5c3
+  GoogleAds-IMA-iOS-SDK: b8d3693d370edcbd1440c827897c2b2a0b76673d
+
+PODFILE CHECKSUM: 55cd0a6d7ebd5772379b399de81e5fa19390fd61
+
+COCOAPODS: 1.10.0
