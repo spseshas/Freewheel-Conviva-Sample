@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ConvivaAVFoundation",
+        "repositoryURL": "https://github.com/Conviva/conviva-ios-avfoundation-spm.git",
+        "state": {
+          "branch": null,
+          "revision": "98a33649482f74652ee7109429564eb528b052aa",
+          "version": "4.0.17"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
